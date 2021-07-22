@@ -1,6 +1,6 @@
 # ETL-using-GoLang
 
-**Projeto de ETL para a matéria Arquitetura de Linguagens de Programação, usando a linguagem Go e banco de dados Postgres SQL.**
+**Extraction Transformation and Loading project of a csv datafile using GoLang and Postgresql database.**
 
 Technologies:
 
