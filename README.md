@@ -1,6 +1,6 @@
 # ETL-using-GoLang
 
-**Extraction Transformation and Loading project of a csv datafile using GoLang and Postgresql database.**
+**Extraction Transformation and Loading project. This project reads a csv datafile and transform the data using GoLang language and upload the data to a Postgresql database.**
 
 Technologies:
 
